@@ -1,0 +1,1 @@
+# Auto-Settings-ALSE-on-Python-Bash-1.8.6.39
